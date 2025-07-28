@@ -1,0 +1,16 @@
+
+
+
+
+
+
+
+
+¿Que es git?
+Git es una herramienta de control de versiones de código abierto creada en 2005 por desarrolladores que trabajan en el sistema operativo Linux;
+distribuido, rápido y escalable con un conjunto de comandos excepcionalmente completo que proporciona operaciones de alto nivel y acceso completo a su funcionamiento interno
+
+¿Qué es GitHub?
+GitHub es una empresa fundada en 2008 que crea herramientas que se integran con Git. 
+Es una plataforma basada en la nube donde puedes almacenar, compartir y trabajar junto con otros usuarios para escribir código. Almacenar tu código en un "repositorio" en GitHub te permite lo siguiente: Presentar o compartir el trabajo. Seguir y administrar los cambios en el código a lo largo del tiempo.
+
