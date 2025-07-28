@@ -1,0 +1,8 @@
+print("Bienvenido a Python")
+print("ingrese un numero")
+numero = input()
+print("El numero ingresado es: " + numero)
+print("Ingrese otro numero")
+numero2 = input()
+print("El segundo numero ingresado es: " + numero2)
+print("La suma de los numeros es: " + str(int(numero) + int(numero2)))
